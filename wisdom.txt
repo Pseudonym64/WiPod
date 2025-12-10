@@ -1,0 +1,16 @@
+Reverse engineering:
+├──
+│   ├──
+│   └──
+
+/.rockbox
+├──backdrops				
+│   └──WiPod.bmp		/fullscreen background image
+├──themes
+│   └──WiPod.cfg		/theme config file
+├──wps
+│   ├──WiPod.sbs		/status bar screen
+│   └──WiPod.wps		/while playing screen
+├──fonts
+│   └──RodinNTLG.fnt
+└──icons(Optional)
